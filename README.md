@@ -1,4 +1,4 @@
-# LAB-01 ddd
+# LAB-01
 
 You can run any file in your console using command `node task-array.js`
 
